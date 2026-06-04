@@ -20,8 +20,8 @@ const songs = [
         file: "Music/Aadiney_Irupen.mp3"
     },
     {
-        title: "Asa_Pulla",
-        file: "Music/Asa_Pulla.flac"
+        title: "Aasa_Pulla",
+        file: "Music/Aasa_Pulla.flac"
     },
     {
         title: "Aasaiye_Kaathule",
@@ -52,8 +52,8 @@ const songs = [
         file: "Music/Kanavellam_Neethane.mp3"
     },
     {
-        title: "Kanni_Naan_Mudinalum",
-        file: "Music/Kanni_Naan_Mudinalum.mp3"
+        title: "Kannai_Naan_Mudinalum",
+        file: "Music/Kannai_Naan_Mudinalum.mp3"
     },
     {
         title: "kanne_kanmaniye",
@@ -68,16 +68,8 @@ const songs = [
         file: "Music/Maname.mp3"
     },
     {
-        title: "Meenakumari",
-        file: "Music/Meenakumari.flac"
-    },
-    {
         title: "Mutta_Kalakki",
         file: "Music/Mutta_Kalakki.flac"
-    },
-    {
-        title: "Naadodigal",
-        file: "Music/Naadodigal.flac"
     },
     {
         title: "Naan_Pudicha",
@@ -92,8 +84,8 @@ const songs = [
         file: "Music/Poyivaa_Nanba.mp3"
     },
     {
-        title: "Thikki_thenarudhu",
-        file: "Music/Thikki_thenarudhu.mp3"
+        title: "Thikki_Thenarudhu",
+        file: "Music/Thikki_Thenarudhu.mp3"
     },
     {
         title: "Aadungada_Yennai_Suththi",
