@@ -12,6 +12,90 @@ const songs = [
         file: "Music/Come Back Indian.flac"
     },
     {
+        title: "GTA_CJ_rap",
+        file: "Music/GTA_CJ_rap.mp3"
+    },
+    {
+        title: "Aadiney_Irupen",
+        file: "Music/Aadiney_Irupen.mp3"
+    },
+    {
+        title: "Asa_Pulla",
+        file: "Music/Asa_Pulla.flac"
+    },
+    {
+        title: "Aasaiye_Kaathule",
+        file: "Music/Aasaiye_Kaathule.mp3"
+    },
+    {
+        title: "Akka_Maga",
+        file: "Music/Akka_Maga.mp3"
+    },
+    {
+        title: "April_Maathathil",
+        file: "Music/April_Maathathil.mp3"
+    },
+    {
+        title: "Chola_Chola",
+        file: "Music/Chola_Chola.mp3"
+    },
+    {
+        title: "Jalsa_Pannungada",
+        file: "Music/Jalsa_Pannungada.mp3"
+    },
+    {
+        title: "Jilpanso",
+        file: "Music/Jilpanso.flac"
+    },
+    {
+        title: "Kanavellam_Neethane",
+        file: "Music/Kanavellam_Neethane.mp3"
+    },
+    {
+        title: "Kanni_Naan_Mudinalum",
+        file: "Music/Kanni_Naan_Mudinalum.mp3"
+    },
+    {
+        title: "kanne_kanmaniye",
+        file: "Music/kanne_kanmaniye.mp3"
+    },
+    {
+        title: "Loveah_Sollitalea",
+        file: "Music/Loveah_Sollitalea.flac"
+    },
+    {
+        title: "Maname",
+        file: "Music/Maname.mp3"
+    },
+    {
+        title: "Meenakumari",
+        file: "Music/Meenakumari.flac"
+    },
+    {
+        title: "Mutta_Kalakki",
+        file: "Music/Mutta_Kalakki.flac"
+    },
+    {
+        title: "Naadodigal",
+        file: "Music/Naadodigal.flac"
+    },
+    {
+        title: "Naan_Pudicha",
+        file: "Music/Naan_Pudicha.mp3"
+    },
+    {
+        title: "Paranthene_Penne",
+        file: "Music/Paranthene_Penne.flac"
+    },
+    {
+        title: "Poyivaa_Nanba",
+        file: "Music/Poyivaa_Nanba.mp3"
+    },
+    {
+        title: "Thikki_thenarudhu",
+        file: "Music/Thikki_thenarudhu.mp3"
+    },
+    {
         title: "Aadungada_Yennai_Suththi",
         file: "Music/Aadungada_Yennai_Suththi.flac"
     },
